@@ -5,7 +5,8 @@ Certainly! Here's an example README for an e-commerce website built using HTML, 
 
 Welcome to our E-Commerce Website! This project showcases a modern and responsive online shopping platform built using HTML, CSS, JavaScript, Bootstrap, and React.js.
 
-C:\Users\akrit\Downloads\Screenshot 2023-08-17 210406.png
+![image](https://github.com/akrititrivedi/e-commerce-website/assets/117921970/5a02ef73-f50e-4b0c-bd6a-cd2442a658a5)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
