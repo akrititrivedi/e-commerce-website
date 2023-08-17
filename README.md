@@ -22,7 +22,7 @@ Welcome to our E-Commerce Website! This project showcases a modern and responsiv
 
 ## Technologies Used
 
-- HTML: Markup for structuring the content.
+- HTML: Markup for structuring the content
 - CSS: Styling and layout design.
 - JavaScript: Dynamic and interactive functionalities.
 - Bootstrap: Responsive design components and grid system.
