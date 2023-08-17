@@ -9,28 +9,14 @@ Welcome to our E-Commerce Website! This project showcases a modern and responsiv
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
-## Introduction
-
-Our E-Commerce Website provides users with an intuitive and user-friendly interface to browse and purchase a wide range of products. The website is designed to be responsive, ensuring a seamless shopping experience across various devices.
-
-## Features
-
-- User-friendly navigation and layout.
-- Product catalog with detailed descriptions and images.
-- Search and filter functionality to easily find desired products.
-- Shopping cart to review and manage selected items.
-- Secure checkout process for hassle-free purchases.
-- User authentication and account management.
-- Admin dashboard for managing products and orders.
+- index(homepage)
+- products
+- product details
+- categories
+- about us
+- search
+- cart
+- contact us 
 
 ## Technologies Used
 
@@ -39,33 +25,32 @@ Our E-Commerce Website provides users with an intuitive and user-friendly interf
 - JavaScript: Dynamic and interactive functionalities.
 - Bootstrap: Responsive design components and grid system.
 - React.js: Building interactive UI components.
-- [Other technologies, libraries, or frameworks used in your project.]
+## Home Page
+![image](https://github.com/akrititrivedi/e-commerce-website/assets/117921970/5a02ef73-f50e-4b0c-bd6a-cd2442a658a5)
 
-## Getting Started
+![image](https://github.com/akrititrivedi/e-commerce-website/assets/117921970/0dd391e7-c3f3-48dc-8555-701bf469d21c)
+![image](https://github.com/akrititrivedi/e-commerce-website/assets/117921970/c6222edc-e552-4fd8-833c-0fe494dd382f)
+![image](https://github.com/akrititrivedi/e-commerce-website/assets/117921970/9a81b3ec-626f-40b1-835f-f29e745d7edf)
 
-1. Clone the repository: `git clone https://github.com/yourusername/e-commerce-website.git`
-2. Install dependencies: `npm install`
-3. Start the development server: `npm start`
-4. Open your web browser and go to `http://localhost:3000`
+## Product page
+![image](https://github.com/akrititrivedi/e-commerce-website/assets/117921970/c5de00b2-0b45-4f30-8d5c-2df34d430c7a)
 
-## Usage
+## category
+![image](https://github.com/akrititrivedi/e-commerce-website/assets/117921970/00d58961-75d4-4212-b707-9e58a4eabfe0)
 
-1. Browse the product catalog by categories or search for specific items.
-2. Click on a product to view detailed information.
-3. Add items to your cart and review your selections.
-4. Proceed to checkout and provide shipping and payment information.
-5. Receive a confirmation email upon successful order placement.
+## about us
+![image](https://github.com/akrititrivedi/e-commerce-website/assets/117921970/f8d4408e-31d4-42c4-a711-6fc0994459f5)
 
-## Contributing
+## contact us
+![image](https://github.com/akrititrivedi/e-commerce-website/assets/117921970/31c2bf6a-0817-4517-97c3-5c132a078113)
 
-We welcome contributions to improve our E-Commerce Website. If you find a bug or have suggestions for enhancements, feel free to submit issues or pull requests. Please follow our [contribution guidelines](CONTRIBUTING.md).
+## search and cart
+![image](https://github.com/akrititrivedi/e-commerce-website/assets/117921970/ac79a36d-7eb6-4afd-80c3-5b83cfc33077)
+![image](https://github.com/akrititrivedi/e-commerce-website/assets/117921970/dca61b55-7735-487d-839f-e5d00198f0a7)
 
-## License
+## checkout
+![image](https://github.com/akrititrivedi/e-commerce-website/assets/117921970/2e8bfc48-69aa-4ed9-bd9a-cb5de866bbf5)
 
-This project is licensed under the [MIT License](LICENSE).
 
-## Contact
 
-For inquiries or support, please contact us at [contact@example.com](mailto:contact@example.com) or visit our website [www.ecommercewebsite.com](https://www.ecommercewebsite.com). You can also find us on Twitter [@ECommerceSite](https://twitter.com/ECommerceSite).
 
-We appreciate your interest in our E-Commerce Website and hope you enjoy your shopping experience!
